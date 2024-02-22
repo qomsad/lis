@@ -1,0 +1,3 @@
+~\Downloads\apache-jmeter-5.6.2\bin\jmeter.bat -n -t .\10.jmx -l log-10.jtl -e -o .\result-10\
+~\Downloads\apache-jmeter-5.6.2\bin\jmeter.bat -n -t .\100.jmx -l log-100.jtl -e -o .\result-100\
+~\Downloads\apache-jmeter-5.6.2\bin\jmeter.bat -n -t .\1000.jmx -l log-1000.jtl -e -o .\result-1000\
